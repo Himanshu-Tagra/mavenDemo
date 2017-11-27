@@ -23,8 +23,8 @@
 	  <version>3.0.0</version>
 	  <configuration>
 	  <failOnMissingWebXml>false</failOnMissingWebXml>
-	  </configuration>
-	</plugin>
+	</configuration>
+			</plugin>
     </plugins>
   </build>
 </project>
